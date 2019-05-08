@@ -2,5 +2,9 @@ HOLA!
 Me llamo carlos
 
 function(){
+<<<<<<< HEAD
     //HOLA
+=======
+ADIOS
+>>>>>>> 8efec0d5a894f51eb29a96b532508fbe89bdc907
 }
